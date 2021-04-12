@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ilyakaznacheev/cleanenv"
+	"github.com/MildC/cleanenv"
 )
 
 type config struct {

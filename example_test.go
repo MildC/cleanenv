@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ilyakaznacheev/cleanenv"
+	"github.com/MildC/cleanenv"
 )
 
 // ExampleGetDescription builds a description text from structure tags
